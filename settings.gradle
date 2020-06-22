@@ -1,2 +1,0 @@
-include ':app'
-rootProject.name = "practical_2_parta"
